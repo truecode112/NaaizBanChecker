@@ -1,0 +1,6 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\Pc\\Downloads\\OSBot 2.6.57.jar"
+    ]
+}
